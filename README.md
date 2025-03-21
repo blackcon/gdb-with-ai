@@ -1,4 +1,4 @@
-# gdb-with-ai
+# gdb-with-ai (Claude가 개발해줌)
 ## preview
 ### 1) 버그 수정 요청
 - 버그 발생
@@ -167,4 +167,3 @@ logging.basicConfig(filename='~/.gdb-mcp/debug.log', level=logging.DEBUG)
 
 GDB-MCP를 사용하면 디버깅 과정에서 AI의 도움을 쉽게 받을 수 있습니다. 코드 이해, 버그 분석, 해결책 제안 등의 작업을 더 효율적으로 수행할 수 있습니다.
 
-질문이나 더 자세한 정보가 필요하시면 알려주세요!
